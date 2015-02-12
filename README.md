@@ -7,4 +7,4 @@ yaitu mengenai Konsep Database, yang kemudian dipraktekan langsung pada salah sa
 
 Tulisan ini masih sangat sederhana, semoga dapat dipahami dan bermanfaat bagi para pembaca ;-)
 
-silahkan, klik disini untuk mempelajari Konsep [Database](https://github.com/dellamelyan/Database-SQL-/blob/master/Konsep%20Database.md)
+silahkan, klik disini untuk mempelajari [Konsep Database](https://github.com/dellamelyan/Database-SQL-/blob/master/Konsep%20Database.md)
