@@ -23,9 +23,9 @@ didalam database terdapat perintah-perintah utama yang biasa digunakan dalam pen
   
 ##Membuat Database di *SQLServer*
 
-Membuat database di SQLServer dapat menggunakan script dan dapat juga dibuat langsung tanpa script.
+Membuat database di SQLServer dapat menggunakan script dan dapat juga dibuat langsung tanpa script
 
-Disini saya akan menjelaskan langkah-langkah membuat database di SQLServer menggunakan script, *so check this out* :)
+Pada bagian ini kami akan menjelaskan langkah-langkah membuat database di SQLServer menggunakan script, *so check this out* :)
 
 
 ![](http://gibraltardatabases.com/images/databases.jpg)
