@@ -6,3 +6,5 @@ yaitu mengenai Konsep Database, yang kemudian dipraktekan langsung pada salah sa
 ![SQL Server Management Studio](http://thomaslarock.com/wp-content/uploads/2011/12/SQL-Server-2012.png)
 
 Tulisan ini masih sangat sederhana, semoga dapat dipahami dan bermanfaat bagi para pembaca ;-)
+
+silahkan, klik disini untuk mempelajari Konsep [Database](https://github.com/dellamelyan/Database-SQL-/blob/master/Konsep%20Database.md)
